@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Kumar Singh</h1>
-<h3 align="center">Fukkstack Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img  align="right" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 - 🌱 I’m currently learning **React**
 
